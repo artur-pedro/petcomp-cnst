@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Acalourada</title>
+    <title>Congresso Nacional de Saúde e Tecnologia - 3º Café com Ciência</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Acalourada, Evento, petcomp, " name="keywords">
     <meta content="PETCOMP-UFMA" name="author">

@@ -10,46 +10,32 @@ require_once('header.php');
 
 
     <div id="carouselExampleControls" class="carousel" data-ride="carousel">
-        <ol class="carousel-indicators">
+        <!-- <ol class="carousel-indicators">
             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
-        </ol>
+        </ol> -->
         <div class="carousel-inner">
             <div id="intro" class="carousel-item active">
-                <div class="intro-container wow fadeIn">
-                    <h1 class="mb-4 pb-0">Acalourada de<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
-                    <p class="mb-4 pb-0">Deseja participar?</p>
-
-                    <!--<a href="https://youtu.be/hPt2zWgXKiQ" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>-->
-                    <a href="inscricoes.php" class="about-btn scrollto">Inscreva-se!!!</a>
+                <div class="slider-banner">
+                    <div class="intro-container wow fadeIn">
+                        <h1>Congresso Nacional de Saúde e Tecnologia</h1>
+                        <h1>3º Café com Ciência</h1>
+                        <h2>A ciência e os desafios para saúde e tecnologia em novos tempos</h2>
+                        <a href="#about-event" class="about-btn text-decoration-none">
+                            <b>Sobre o evento</b>
+                        </a>
+                    </div>
                 </div>
             </div>
-            <div id="intro" class="carousel-item item-2">
-                <div class="intro-container wow fadeIn">
-                    <h1 class="mb-4 pb-0">Acalourada de<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
-                    <p class="mb-4 pb-0">Está perdido? Veja algumas dicas!</p>
-
-                    <a href="https://youtu.be/hPt2zWgXKiQ" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
-                </div>
-            </div>
-            <div id="intro-2" class="carousel-item item-2">
-                <div class="intro-container wow fadeIn">
-                    <h1 class="mb-4 pb-0">Oriente-se!!! <br>Conheça o CCET </h1>
-                    <p class="mb-4 pb-0">Assista nosso Vídeo!</p>
-
-                    <a href="https://youtu.be/lvfjOL5q2_w" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
-
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="false"></span>
                 <span class="visually-hidden"></span>
             </a>
             <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="false"></span>
                 <span class="visually-hidden"></span>
-            </a>
+            </a> -->
         </div>
     </div>
 

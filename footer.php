@@ -8,13 +8,14 @@
 
             <div id="email">
 
-                <strong>E-mail:</strong> petcomputacao.ufma@gmail.com
+                <strong>E-mail:</strong> eventos.ppgst@ufma.br
 
             </div>
 
             <div class="social-links">
 
-                <a href="https://www.instagram.com/petcompufma/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
+                <a href="https://www.instagram.com/ppgstufma/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
+                <a href="#" target="_blank" class="instagram"><i class="fa fa-youtube"></i></a>
 
             </div>
 
@@ -26,7 +27,7 @@
 
     <div class="copyright">
 
-        <strong>Acalourada 2024.2 - PETCOMP</strong>
+        <strong>Congresso Nacional de Saúde e Tecnologia - 3º Café com Ciência</strong>
 
     </div>
 

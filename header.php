@@ -5,18 +5,16 @@
                     id="img-esq-1"></a>
         </div>
         <div class="main-text">
-
             <h1>Congresso Nacional de Saúde e Tecnologia</h1>
             
             <h1>3º Café com Ciência</h1>
 
-            
             <h1>Evento Híbrido</h1>
+
             <p id="text-paragraph">
                 A ciência e os desafios para saúde e tecnologia em novos tempos
                 XX à XX de Junho de 20XX
             </p>
-
         </div>
         
         <div>
@@ -30,12 +28,58 @@
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
                     <li><a href="index.php">Home</a></li>
-                    <!-- <li class="menu"><a href="inscricoes.php">Inscrições</a></li> -->
-                    <li><a href="programacao.php">Programação</a></li>
-                    <li><a href="localizacao.php">Localização</a></li>
-                    <li><a href="materiais.php">Guias</a></li>
-                    <li><a href="faq.php">FAQ</a></li>
-                    <!-- <li><a href="registros.php">Registros</a></li> -->
+                    <li class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
+                            role="button" aria-haspopup="true" aria-expanded="false">Chamadas</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Monitoria</a>
+
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Submissão de Trabalhos</a>
+                            
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Trabalhos Aprovados</a>
+                        </div>
+                    </li>
+                    <li><a href="inscricoes.php">Inscrições</a></li>
+
+                    <li class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
+                            role="button" aria-haspopup="true" aria-expanded="false">Programação</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Pré-Congresso</a>
+                            
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Congresso</a>
+                            
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Palestrantes</a>
+                        </div>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
+                            role="button" aria-haspopup="true" aria-expanded="false">Publicações</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Anais</a>
+                            
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Certificados</a>
+                        </div>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
+                            role="button" aria-haspopup="true" aria-expanded="false">Informações</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Local</a>
+                            
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Comissões</a>
+                        </div>
+                    </li>
                 </ul>
             </nav>
             <!-- #nav-menu-container -->

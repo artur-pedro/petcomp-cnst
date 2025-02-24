@@ -19,6 +19,7 @@
 /*Banner*/
 
 .banner {
+  width: 100%;
   padding: 0rem;
   display: flex;
   flex-direction: row;
@@ -44,6 +45,20 @@
   padding: 0rem;
 }
 
+.slider-banner {
+  align-items: center;
+  /* background-image: url(../img/banner.png); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  color: #343564;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+}
+
 .main-text {
   display: flex;
   flex-direction: column;
@@ -57,10 +72,13 @@
   font-size: 28px;
   font-family: Montserrat;
   font-weight: bold;
+  color: #1b100a;
 }
+
 #text-paragraph {
   text-align: center;
 }
+
 #title-br {
  word-break: break-all;
 }
@@ -153,10 +171,11 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   margin: 10px 0 10px 0;
   padding: 0;
-  color: #1B100A;
+  color: #fffffffd;
+  text-transform: uppercase;
 }
 
 .main-page {
@@ -774,7 +793,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/image_intro.png) top center;
+  background: url(../img/banner.png) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -906,9 +925,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .about-btn {
+  position: relative;
+  top: 4%;
   font-family: "Raleway", sans-serif;
-  font-weight: 500;
-  font-size: 14px;
+  font-weight: bold;
+  font-size: 18px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 12px 32px;
@@ -916,10 +937,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #fff;
+  text-transform: uppercase;
+  color: #fffffffd;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #8155BA;
+  border: 2px solid #fffffffd;
 }
 
 #intro-2 .about-btn:hover {
@@ -1671,19 +1693,20 @@ td, th {
   font-size: 16px;
   text-decoration: none;
 }
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 
 #footer {
-  background: #381460;
+  background: #1B4591;
   padding: 0 0 10px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #352e41 ;
+  background: #3c4858;
   padding: 5px 15px 5px 15px;
 }
 

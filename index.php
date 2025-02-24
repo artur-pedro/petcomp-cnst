@@ -92,7 +92,7 @@ require_once('header.php');
                 <div class="col-lg-2 col-md-4 col-xs-6">
                     <div class="supporter-logo">
                         <a href="https://portais.ufma.br/PortalUfma/index.jsf" target="_blank">
-                            <img src="img/supporters/1.png" class="img-fluid" alt="">
+                            <img src="img/supporters/3.png" class="img-fluid" alt="">
                         </a>
                     </div>
                 </div>

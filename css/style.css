@@ -19,11 +19,10 @@
 /*Banner*/
 
 .banner {
+  padding: 0rem;
   display: flex;
   flex-direction: row;
-  justify-content: center;
   align-content: center;
-  width: 100%;
   margin-left: auto;
   margin-right: auto;
   align-items: center;
@@ -39,13 +38,31 @@
 }
 
 .banner div {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
   width: 545px;
   margin: auto;
+  margin-top: 2rem;
+  padding: 0rem;
+}
+
+.main-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+}
+
+.main-text h1 {
+  text-align: center; 
+  margin: 10px 0; 
+  font-size: 28px;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+#text-paragraph {
+  text-align: center;
+}
+#title-br {
+ word-break: break-all;
 }
 
 /*.banner-centro {
@@ -235,6 +252,10 @@ h6 {
 
 .section-with-bg {
   background-color: #f6f7fd;
+}
+#logo-principal {
+  width: 10rem;
+  height: 10rem;
 }
 
 /*--------------------------------------------------------------
@@ -1650,7 +1671,6 @@ td, th {
   font-size: 16px;
   text-decoration: none;
 }
-
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/

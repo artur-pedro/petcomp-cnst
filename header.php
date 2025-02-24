@@ -1,15 +1,26 @@
 <div class="wrapper">
     <div class="banner">
         <div>
-            <a href="index.php"><img src="img/favicon-v1/logo-acalourada.svg" alt="" class="img-fluid" id="img-esq"></a>
-            <a href="http://www.deinf.ufma.br/cocom/site/" target="_blank"><img src="img/LOGOCocom2.png" alt="" class="img-fluid"
+            <a href="http://www.deinf.ufma.br/cocom/site/" target="_blank"><img src="img/supporters/banner2020.png" alt="" class="img-fluid" id="logo-principal"
                     id="img-esq-1"></a>
         </div>
-        <div>
-            <a href="index.php"><img src="img/banner2024_2v1.jpg" class="img-fluid" id="img-centro"></a>
+        <div class="main-text">
+
+            <h1>Congresso Nacional de Saúde e Tecnologia</h1>
+            
+            <h1>3º Café com Ciência</h1>
+
+            
+            <h1>Evento Híbrido</h1>
+            <p id="text-paragraph">
+                A ciência e os desafios para saúde e tecnologia em novos tempos
+                XX à XX de Junho de 20XX
+            </p>
+
         </div>
+        
         <div>
-            <a href="https://portalpadrao.ufma.br/site" target="_blank"><img src="img/supporters/1.png" alt=""
+            <a href="https://portalpadrao.ufma.br/site" target="_blank"><img src="img/supporters/ppgst.png" alt=""
                     class="img-fluid" id="img-dir"></a>
         </div>
     </div>
@@ -25,30 +36,6 @@
                     <li><a href="materiais.php">Guias</a></li>
                     <li><a href="faq.php">FAQ</a></li>
                     <!-- <li><a href="registros.php">Registros</a></li> -->
-                    <li class="dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
-                            role="button" aria-haspopup="true" aria-expanded="false">Versões</a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="index.php">2024.2</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2024.1/index.php">2024.1</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2023.2/index.php">2023.2</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2023.1/index.php">2023.1</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2022.2/index.php">2022.2</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2022.1/index.php">2022.1</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2021.2/index.php">2021.2</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2021.1/index.php">2021.1</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2020.2/index.php">2020.2</a>
-                        </div>
-                        </a>
-                    </li>
                 </ul>
             </nav>
             <!-- #nav-menu-container -->

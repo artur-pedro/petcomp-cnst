@@ -1,0 +1,56 @@
+/* Centraliza o conteúdo da div .content */
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: left; /* Centraliza todos os itens horizontalmente */
+    justify-content: left; /* Centraliza o conteúdo verticalmente */
+    text-align: left; /* Centraliza o texto dentro dos elementos */
+    margin: 0 auto;
+    padding: 20px; /* Espaço interno */
+    max-width: 1000px; /* Limita a largura máxima */
+  }
+  /* Remove as bolinhas da lista */
+.centered li {
+  list-style-type: none; /* Remove as bolinhas */
+  padding-left: 0; /* Remove o recuo da lista */
+}
+
+  
+  /* Centraliza as imagens e os itens da lista */
+  .centered {
+    text-align: center;
+  }
+
+  /* Estilizando a tabela */
+  table.centered {
+    width: 100%; /* Tabela ocupa toda a largura do contêiner */
+    border-collapse: collapse; /* Remove o espaçamento entre as células */
+    margin: 20px 0; /* Espaço entre a tabela e o conteúdo acima/abaixo */
+  }
+  
+  table.centered th, table.centered td {
+    border: 1px solid #ddd; /* Borda cinza claro */
+    padding: 10px; /* Espaçamento dentro das células */
+    text-align: center; /* Centraliza o conteúdo das células */
+  }
+  
+  table.centered th {
+    background-color: #f4f4f4; /* Cor de fundo para os cabeçalhos */
+  }
+  
+  table.centered tr:nth-child(even) {
+    background-color: #f9f9f9; /* Cor de fundo para as linhas pares */
+  }
+  
+  table.centered a {
+    text-decoration: none; /* Remove sublinhado do link */
+    color: #007bff; /* Cor azul para o link */
+  }
+  
+  table.centered a:hover {
+    text-decoration: underline; /* Adiciona sublinhado quando o link é passado por cima */
+  }
+ /* Definir cor preta para todos os títulos (h1, h2, h3, h4) */
+h1, h2, h3, h4 {
+    color: black;
+}

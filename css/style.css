@@ -174,10 +174,8 @@ h6 {
   font-weight: 600;
   margin: 10px 0 10px 0;
   padding: 0;
-  color: #fffffffd;
-  text-transform: uppercase;
+  color: #000000fd;
 }
-
 .main-page {
   margin-top: 70px;
 }
@@ -1027,9 +1025,101 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about p {
-  font-size: 14px;
-  margin-bottom: 20px;
+  font-size: 12px;
+  margin: 20px;
   color: #fff;
+  width: 90%;
+  
+}
+
+#about-event h1 {
+  font-family: var(--bs-body-font-family);
+  font-size: 36px; /* Ajuste o tamanho conforme necessário */
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+}
+
+#about-event h2 {
+  font-family: var(--bs-body-font-family);
+  font-size: 30px; /* Ajuste o tamanho conforme necessário */
+}
+
+#about-event h3 {
+  font-family: var(--bs-body-font-family);
+  font-size: 24px; /* Ajuste o tamanho conforme necessário */
+}
+
+#about-event p {
+  font-family: var(--bs-body-font-family);
+  font-size: 16px; /* Ajuste o tamanho conforme necessário */
+}
+.supporter-logo2 {
+  padding: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-right: 1px solid #e0e5fa;
+  border-bottom: 1px solid #e0e5fa;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.5);
+  width: 30rem;
+  height: 10rem;
+  margin: 0 auto;
+}
+#supporters .supporter-logo2:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+
+#supporters img {
+  transition: all 0.4s ease-in-out;
+}
+
+.black {
+  color: black;
+}
+.supporter-logo3 {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* Adiciona espaço entre as imagens */
+  align-items: center;
+  border-right: 1px solid #e0e5fa;
+  border-bottom: 1px solid #e0e5fa;
+  background: rgba(255, 255, 255, 0.5);
+  width: 60rem; /* Aumenta a largura da div */
+  height: 15rem; /* Ajuste a altura conforme necessário */
+  transition: transform 0.3s ease; /* Transição suave para o efeito de hover */
+  margin: 0 auto;
+  gap: 3rem; /* Reduz o espaçamento entre as imagens */
+}
+
+/* Remova o efeito hover do container e aplique somente nas imagens */
+.supporter-logo3 a:hover img {
+  transform: scale(1.1); /* Aumenta a imagem quando o hover acontece */
+}
+
+.supporter-logo3 img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; /* Faz a imagem se ajustar ao tamanho da caixa sem distorção */
+  margin: 0 1rem; 
+}
+.patrocinio-container {
+  display: flex;
+  padding: 10px; /* Espaço entre a imagem e a borda */
+  border-radius: 8px; /* Borda arredondada, opcional */
+  background-color: #F6F7FD;
+  gap: 5rem;
+  justify-content: space-between;
 }
 
 /*--------------------------------------------------------------
@@ -1320,20 +1410,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #supporters .supporter-logo {
   padding: 30px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
+  flex-direction: row;
   border-right: 1px solid #e0e5fa;
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
   height: 160px;
+  width: 20rem;
 }
 
 #supporters .supporter-logo:hover img {
@@ -1344,6 +1429,47 @@ body.mobile-nav-active #mobile-nav-toggle {
 #supporters img {
   transition: all 0.4s ease-in-out;
 }
+#supporters .supporter-logo {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centraliza as imagens */
+  flex-direction: row;
+  border-right: 1px solid #e0e5fa;
+  border-bottom: 1px solid #e0e5fa;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.5);
+  height: 160px; /* Definindo a altura fixa para todos os logos */
+  width: 100%; /* Largura ajustada */
+}
+
+.supporter-logo img {
+  max-width: 100%;
+  height: 100%; /* Garantir que a altura das imagens seja igual para todas */
+  object-fit: contain; /* Ajusta as imagens sem distorcer */
+}
+
+
+/* Ajusta a largura das colunas para 3 logos por linha em telas grandes */
+.row .col-lg-4 {
+  width: 33.33%; /* 3 logos por linha em telas grandes */
+}
+
+
+@media (max-width: 991px) {
+  /* Para dispositivos de tamanho médio, exibe 2 logos por linha */
+  .row .col-md-6 {
+    width: 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Para dispositivos pequenos, exibe 1 logo por linha */
+  .row .col-xs-12 {
+    width: 100%;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # Orientacoes Section

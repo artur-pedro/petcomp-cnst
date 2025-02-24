@@ -33,13 +33,13 @@
                             role="button" aria-haspopup="true" aria-expanded="false">Chamadas</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Monitoria</a>
+                            <a class="dropdown-item" href="monitoria.php">Monitoria</a>
 
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Submissão de Trabalhos</a>
+                            <a class="dropdown-item" href="submissao.php">Submissão de Trabalhos</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Trabalhos Aprovados</a>
+                            <a class="dropdown-item" href="trabalhosaprovados.php">Trabalhos Aprovados</a>
                         </div>
                     </li>
                     <li><a href="inscricoes.php">Inscrições</a></li>
@@ -63,10 +63,10 @@
                             role="button" aria-haspopup="true" aria-expanded="false">Publicações</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Anais</a>
+                            <a class="dropdown-item" href="anais.php">Anais</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Certificados</a>
+                            <a class="dropdown-item" href="certificados.php">Certificados</a>
                         </div>
                     </li>
                     <li class="dropdown">
@@ -74,10 +74,10 @@
                             role="button" aria-haspopup="true" aria-expanded="false">Informações</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Local</a>
+                            <a class="dropdown-item" href="local.php">Local</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Comissões</a>
+                            <a class="dropdown-item" href="comissao.php">Comissões</a>
                         </div>
                     </li>
                 </ul>

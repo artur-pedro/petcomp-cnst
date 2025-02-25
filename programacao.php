@@ -15,6 +15,7 @@ require_once('header.php');
 
         <div class="tab-content row justify-content-center">
 
+
             <!-- Schdule Day 1 -->
             <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
                 <h2 class="schedule-day-title">Dia 1 - 08/06/2022</h2>

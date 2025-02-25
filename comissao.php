@@ -14,7 +14,9 @@
   require_once('html_header.php');
   require_once('header.php');
 ?>
-<h1 id="centered">COMISSÃO</h1>
+  <div class="section-header">
+  <h1 id="centered">COMISSÃO</h1>
+            </div>
 <div class="content">
 
   <h3 class="centered">Comissão Organizadora</h3>

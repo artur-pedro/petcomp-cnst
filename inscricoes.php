@@ -14,7 +14,10 @@
   require_once('html_header.php');
   require_once('header.php');
 ?>
-<h1 id="centered">INSCRIÇÕES</h1>
+  <div class="section-header">
+  <h1 id="centered">INSCRIÇÕES</h1>
+            </div>
+
 <div class="content">
 
   <p class="centered">Para fazer sua inscrição no evento, <a href="#">clique aqui</a>.</p>

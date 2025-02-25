@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Inscrições - I Congresso Nacional de Saúde e Tecnologia</title>
+  <title>Inscrições - II Congresso Nacional de Saúde e Tecnologia</title>
   
   <!-- Link para o arquivo CSS -->
   <link rel="stylesheet" href="css/monitoria.css"> <!-- Substitua pelo seu caminho -->
@@ -16,15 +16,15 @@
 ?>
 
 <div class="content">
-  <h2 class="centered">INSCRIÇÕES - I CONGRESSO NACIONAL DE SAÚDE E TECNOLOGIA E III CAFÉ COM CIÊNCIA</h2>
+  <h2 class="centered">INSCRIÇÕES - II CONGRESSO NACIONAL DE SAÚDE E TECNOLOGIA E IV CAFÉ COM CIÊNCIA</h2>
 
   <p class="centered">Para fazer sua inscrição no evento, <a href="#">clique aqui</a>.</p>
 
   <h3 class="centered">PERÍODO DE INSCRIÇÃO</h3>
   <ul class="centered">
-    <li><strong>Abertura das inscrições:</strong> 05/05/2022</li>
-    <li><strong>Abertura das submissões:</strong> 05/05/2022</li>
-    <li><strong>Encerramento das submissões:</strong> 20/05/2022</li>
+    <li><strong>Abertura das inscrições:</strong> 15/03/2025</li>
+    <li><strong>Abertura das submissões:</strong> 15/03/2025</li>
+    <li><strong>Encerramento das submissões:</strong> 15/04/2025</li>
   </ul>
 
   <h3 class="centered">VALORES DE INSCRIÇÃO</h3>
@@ -32,23 +32,29 @@
     <thead>
       <tr>
         <th>CATEGORIAS</th>
-        <th>PERÍODO 05/05 à 15/05</th>
-        <th>PERÍODO 16/05 à 31/05</th>
-        <th>PERÍODO A PARTIR DE 01 DE JUNHO*</th>
+        <th>PERÍODO 15/03 à 15/04</th>
+        <th>PERÍODO 16/04 à 15/05</th>
+        <th>PERÍODO A PARTIR DE 16 DE MAIO*</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Discentes de graduação e discentes de pós-graduação</td>
+        <td>Discentes de graduação</td>
+        <td>R$20,00</td>
+        <td>R$25,00</td>
+        <td>R$30,00</td>
+      </tr>
+      <tr>
+        <td>Discentes de pós-graduação</td>
         <td>R$30,00</td>
         <td>R$40,00</td>
         <td>R$50,00</td>
       </tr>
       <tr>
         <td>Profissionais</td>
+        <td>R$70,00</td>
         <td>R$80,00</td>
         <td>R$90,00</td>
-        <td>R$100,00</td>
       </tr>
     </tbody>
   </table>

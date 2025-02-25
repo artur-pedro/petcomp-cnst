@@ -12,8 +12,9 @@
             <h1>Evento Híbrido</h1>
 
             <p id="text-paragraph">
-                A ciência e os desafios para saúde e tecnologia em novos tempos
-                XX à XX de Junho de 20XX
+                 Os desafios em qualidade, equidade e inovação na saúde e
+                tecnologia no Brasil
+                XX à XX de Junho de 2025
             </p>
         </div>
         

@@ -50,10 +50,10 @@
                             role="button" aria-haspopup="true" aria-expanded="false">Programação</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Pré-Congresso</a>
+                            <a class="dropdown-item" href="precongresso.php">Pré-Congresso</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Congresso</a>
+                            <a class="dropdown-item" href="programacao.php">Congresso</a>
                             
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="#">Palestrantes</a>

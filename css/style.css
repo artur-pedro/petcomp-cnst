@@ -112,6 +112,26 @@
   width: 27%;
 }
 
+.section-header {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  position: relative;
+  padding-bottom: 20px;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.center-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
 /*@media (min-width: 576px) {
   .banner div a {
     max-width: 540px;
@@ -1236,7 +1256,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #schedule {
-  padding: 60px 0 60px 0;
+  padding: 0px 0 0px 0;
 }
 
 #schedule .nav-tabs {
@@ -1284,6 +1304,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: background-color ease-in-out 0.3s;
 }
 
+#schedule .row schedule-item {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: row;
+}
 
 #schedule .schedule-item:hover {
   background-color: #fff;
@@ -1295,8 +1321,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .schedule-item .speaker {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   overflow: hidden;
   border-radius: 50%;
   float: left;
@@ -1328,10 +1354,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .schedule-item p {
-  
   font-style: italic;
   color: #152b79;
-  margin-bottom: 0;
+  margin: 10px 0;
+}
+
+.schedule-day-title {
+  padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    font-family: "Raleway", sans-serif;
+    color: #1b100a;
+    font-weight: 600;
 }
 
 .schedule-subtitle{

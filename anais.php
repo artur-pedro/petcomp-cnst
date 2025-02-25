@@ -14,9 +14,11 @@
   require_once('html_header.php');
   require_once('header.php');
 ?>
+  <div class="section-header">
+  <h1 id="centered">ANAIS</h1>
+            </div>
 
 <div class="content">
-  <h2 class="centered">ANAIS - I CONGRESSO NACIONAL DE SAÚDE E TECNOLOGIA E III CAFÉ COM CIÊNCIA</h2>
 
   <p class="centered">Baixe os anais completos aqui.</p>
   

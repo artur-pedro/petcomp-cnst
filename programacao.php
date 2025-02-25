@@ -7,394 +7,481 @@ require_once('header.php');
             Programação Geral
         ============================-->
 
-
 <section id="schedule" class="section-with-bg">
     <div class="container wow fadeInUp">
         <div class="section-header">
             <h2>PROGRAMAÇÃO DO EVENTO</h2>
         </div>
 
-        <!--  <h3 class="sub-heading">Organização - PETComp</h3>-->
         <div class="tab-content row justify-content-center">
+
 
             <!-- Schdule Day 1 -->
             <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
-                <h2 class="schedule-day-title">Dia 11</h2>
-                <h3 class="schedule-day-title">MANHÃ</h3>
+                <h2 class="schedule-day-title">Dia 1 - 08/06/2022</h2>
+                <h4 class="schedule-day-title">Manhã</h4>
                 <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>09:00-09:30</time>
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            08:30 - 09:30
+                        </time>
                     </div>
-                    <div class="col-md-10">
+                    <div class="col-md-3 center-content">
                         <div class="speaker">
                             <img src="img/speakers/pet.jpg" alt="">
                         </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Boas Vindas + Apresentação do PETComp</h4>
-                        <p>Apresentador(a): PETComp<br>
-                        Local: A definir
-                        </p>
                     </div>
+                    <div class="col-md-7">
+                        <h4>CAFÉ COM CIÊNCIA</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Modelos pré-clinicos para estudo de drogas para tratamento da Leishmaniose
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Caroline Martins de Jesus
+                            <br>
+                            Farmacêutica - UFMA
+                            <br>
+                            Mestranda em Saúde e Tecnologia - UFMA
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Virtual</p>
+                    </div>
+                    
                 </div>
 
                 <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>09:30-10:30</time>
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            09:30 - 11:30
+                        </time>
                     </div>
-                    <div class="col-md-10">
+                    <div class="col-md-3 center-content">
                         <div class="speaker">
                             <img src="img/speakers/pet.jpg" alt="">
                         </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Dinâmica de Apresentação</h4>
-                        <p>Apresentadores: Anderson e Francisco<br>
-                        Local: A definir
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CAFÉ COM CIÊNCIA</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Geotecnologias aplicadas à detecção de doenças e agravos transmissíveis
+                            </b>
                         </p>
+                        <p style="font-size: 16px;">
+                            Palestrantes: Prof. Dr. José Aquino Junior
+                            <br>
+                            Doutor em Geografia - Docente - UFMA e
+                            <br>
+                            Prof. Dr. Ricardo Alexandre Arcêncio
+                            <br>
+                            Doutor em Ciências - Docente - EERP/USP
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Virtual</p>
                     </div>
                 </div>
 
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>10:30-12:00</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/speakers/DEINF.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Apresentação do Curso</h4>
-                        <p>Apresentador(a): Prof. Antônio de Abreu<br>
-                        Local: A definir 
-                        </p>
-                    </div>
-                </div>
-
-                
-
-                <h3 class="schedule-day-title">TARDE</h3>
+                <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>14:00-16:00</time>
+                    <div class="col-md-2 center-content"><br>
+                        <time>13:00-15:00</time>
                     </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/favicon-v1/logo-acalourada.svg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <div>
-                        <h4>Apresentação NCA e Palestra</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: A definir
-                        </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>16:00-16:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/speakers/labi.jpeg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Apresentação da Liga de Bioinformática</h4>
-                        <p>Apresentador(a): LABI<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                 <!-- Schdule Day 2 -->
-                <h2 class="schedule-day-title">Dia 12</h2>
-                <h3 class="schedule-day-title">MANHÃ</h3>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>09:00-09:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/dexters.jpg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Dexters</h4>
-                        <p>Apresentador(a): Prof. Luis Rivero<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>09:30-10:00</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/speakers/lucho.jpg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Palestra SBC</h4>
-                        <p>Apresentador(a): Prof. Luis Rivero<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>10:00-12:00</time>
-                    </div>
-                    <div class="col-md-10">
-                    <div class="speaker">
-                            <img src="img/speakers/pet.jpg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Minicurso de Programação em Blocos</h4>
-                        <p>Apresentador(a): Heloísa<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                <h3 class="schedule-day-title">TARDE</h3>
-                
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>14:00-16:00</time>
-                    </div>
-                    <div class="col-md-10">
+                    <div class="col-md-3 center-content">
                         <div class="speaker">
                             <img src="img/speakers/pet.jpg" alt="">
                         </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Mesa Redonda com Egressos</h4>
-                        <p>Apresentador(a): Francisco<br>
-                        Local: A definir
-                        </p>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CREDENCIAMENTO</h4>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
                 </div>
 
                 <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>16:00-17:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/speakers/simara.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Palestra Mulheres na Computação</h4>
-                        <p>Apresentador(a): Profa. Simara Vieira<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                 <!-- Schdule Day 3  -->
-                <h2 class="schedule-day-title">Dia 13</h2>
-                <h3 class="schedule-day-title">MANHÃ</h3>
-               
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>08:30-09:00</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/telemidia.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>TeleMídia</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: TeleMídia
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>09:00-09:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/lsdi.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>LSDi</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: LSDi
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>09:30-10:00</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/lacmor.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>LACMOR</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: LACMOR
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>10:00-10:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/laws.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>LAWS</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: LAWS
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>10:30-11:00</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/inovtec.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Inovtec</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: Inovtec
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>11:00-12:00</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/viplab.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>VipLab</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: VipLab
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>12:00-12:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/labs/lint.jpeg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Lint</h4>
-                        <p>Apresentador(a): A definir<br>
-                        Local: Lint
-                        </p>
-                    </div>
-                </div>
-
-                <h3 class="schedule-day-title">TARDE</h3>
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
+                    <div class="col-md-2 center-content"><br>
                         <time>14:00-15:00</time>
                     </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/speakers/DA Comp.jpeg" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Apresentação do DAComp</h4>
-                        <p>Apresentadores: DAComp<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>15:00-15:30</time>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="speaker">
-                            <img src="img/speakers/lorde.png" alt="">
-                        </div>
-                        <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
-                        </div>
-                        <h4>Apresentação da Atlética</h4>
-                        <p>Apresentador(a): Mylady<br>
-                        Local: A definir
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2"><br>
-                        <time>15:30-17:30</time>
-                    </div>
-                    <div class="col-md-10">
+                    <div class="col-md-3 center-content">
                         <div class="speaker">
                             <img src="img/speakers/pet.jpg" alt="">
                         </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS</h4>
+                        <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                    
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            14:00 - 15:15
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/speakers/fundo.png" alt="">
+                            <img src="img/speakers/pet.jpg" alt="">
                         </div>
-                        <h4>Dinâmica de Jogos</h4>
-                        <p>Apresentador(a): PETComp<br>
-                        Local: A definir
+                    </div>
+                    <div class="col-md-7">
+                        <h4>PALESTRA 1 - CNST</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Alimentos, saúde e tecnologia: como a pesquisa clínica aplicada unifica essas áreas
+                            </b>
                         </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof. Dr. Márcio Flávio Moura de Araújo
+                            <br>
+                            Doutorado em Enfermagem - UFC
+                            <br>
+                            Pesquisador em Saúde Pública da Fundação Oswaldo Cruz
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            15:30 - 16:45
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>PALESTRA 2 - CNST</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                A nanotecnologia no tratamento do câncer
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof.ª Dr.ª Carolina Heitmann Mares Azevedo Ribeiro
+                            <br>
+                            Doutorado em Farmácia - USP
+                            <br>
+                            Docente - UFPA
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>17:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CERIMÔNIA DE ABERTURA</h4>
+                        <p style="font-size: 16px;">Palestrantes: Autoridades Locais</p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <!-- Dia 02 -->
+
+                <h2 class="schedule-day-title">Dia 2 - 09/06/2022</h2>
+                <h4 class="schedule-day-title">Manhã</h4>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            08:30 - 09:30
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CAFÉ COM CIÊNCIA</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Emprego de Multimétodos no desenvolvimento de aplicativos para a área da saúde
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Me. Rafaela Cristina Araújo Gomes
+                            <br>
+                            Mestrado em Saúde e Tecnologia - UFMA
+                            <br>
+                            Doutoranda em Enfermagem e Biociências - UNIRIO
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Virtual</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            09:30 - 10:30
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CAFÉ COM CIÊNCIA</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Patentes: ferramenta para proteção de invenções
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof.ª Dr.ª Cristina Maria Assis Lopes Tavares da Mata Hermida Quintella
+                            <br>
+                            Doutorado em School of Molecular Sciences pela University of Sussex, Inglaterra
+                            <br>
+                            Docente - UFBA
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Virtual</p>
+                    </div>
+                </div>
+
+                <h4 class="schedule-day-title">Tarde</h4>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>14:00-15:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS</h4>
+                        <p style="font-size: 20px;">Eixo 2 - Tecnologias em Saúde</p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            14:00 - 15:15
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>PALESTRA 3 - CNST</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Desenvolvimento de antiparasitários e transferência de tecnologia
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof. Dr. Lívio Martins Costa Junior
+                            <br>
+                            Doutorado em Parasitologia - UFMG
+                            <br>
+                            Docente - UFMA
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            15:30 - 16:45
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>PALESTRA 4 - CNST</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Uso de Tecnologias Digitais da Informação e Comunicação para melhorar o acesso aos serviços de saúde
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Me. Luis Gustavo Gasparini Kiatake
+                            <br>
+                            Mestrado em Engenharia Elétrica - USP
+                            <br>
+                            Presidente da Sociedade Brasileira de Informática em Saúde
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <!-- Dia 03 -->
+
+                <h2 class="schedule-day-title">Dia 3 - 10/06/2022</h2>
+                <h4 class="schedule-day-title">Manhã</h4>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            08:30 - 09:30
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CAFÉ COM CIÊNCIA</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Imunopatologia da Sepse
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof.ª Dr.ª Márcia Cristina Gonçalves Maciel
+                            <br>
+                            Doutora em Biotecnologia
+                            <br>
+                            Docente - UFMA e UnB
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Virtual</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            09:30 - 10:30
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>CAFÉ COM CIÊNCIA</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Revisão de Escopo: Mapeando a literatura
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Romel Jonathan Velasco Yanez
+                            <br>
+                            Mestrando em Enfermagem - UFC
+                            <br>
+                            Mestrando em Enfermagem com foco na Gestão da Saúde - Universidad Internacional Iberoamericana de México
+    1                   </p>
+                        <p style="font-size: 16px;">Modalidade: Virtual</p>
+                    </div>
+                </div>
+
+                <h4 class="schedule-day-title">Tarde</h4>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            14:00 - 15:15
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>PALESTRA 5 - CNST</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Interfaces participativas no desenvolvimento de tecnologias para saúde
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof.ª Dr.ª Elizabeth Teixeira
+                            <br>
+                            Doutora em Ciências: Desenvolvimento Sócio Ambiental
+                            <br>
+                            Professora Visitante - UFPA
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            15:30 - 16:45
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <p style="font-size: 20px;">
+                            <b>
+                                Lançamento de Ebook com a organizadora da obra: "Materiais Didáticos para mediar processos educacionais em saúde: producão e tipologias"
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">
+                            Palestrante: Prof.ª Dr.ª Elizabeth Teixeira
+                            <br>
+                            Doutora em Ciências: Desenvolvimento Sócio Ambiental
+                            <br>
+                            Professora Visitante - UFPA
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            16:00 - 17:00
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/speakers/pet.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>PREMIAÇÃO E CERIMÔNIA DE ENCERRAMENTO</h4>
+                        <p style="font-size: 20px;">
+                            <b>
+                                Premiação dos melhores trabalhos nas modalidades presencial e virtual das 2 linhas de pesquisa do PPGST e Cerimônia de Encerramento
+                            </b>
+                        </p>
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
                 </div>
 

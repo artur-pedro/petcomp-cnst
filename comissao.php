@@ -14,9 +14,10 @@
   require_once('html_header.php');
   require_once('header.php');
 ?>
-
+  <div class="section-header">
+  <h1 id="centered">COMISSÃO</h1>
+            </div>
 <div class="content">
-  <h2 class="centered">COMISSÃO - I CONGRESSO NACIONAL DE SAÚDE E TECNOLOGIA E III CAFÉ COM CIÊNCIA</h2>
 
   <h3 class="centered">Comissão Organizadora</h3>
   <ul class="centered">

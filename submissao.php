@@ -15,8 +15,11 @@
   require_once('header.php');
 ?>
 
+<div class="section-header">
+<h1 id="centered">TRABALHOS</h1>
+            </div>
+
 <div class="content">
-  <h2 class="centered">CHAMADA DE TRABALHOS CIENTÍFICOS DO I CONGRESSO NACIONAL DE SAÚDE E TECNOLOGIA E DO III CAFÉ COM CIÊNCIA</h2>
   <p class="centered">Para acessar a chamada de trabalho, <a href="#">clique aqui</a>.</p>
 
   <h3 class="centered">DO CRONOGRAMA:</h3>

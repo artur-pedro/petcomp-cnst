@@ -1425,6 +1425,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-decoration: solid;
 }
 
+.profile-card-2 .profile {
+  border-radius: 50%;
+  position: absolute;
+  top: -22px;
+  left: 85%;
+  max-width: 75px;
+  border: 2px solid rgba(0, 141, 0, 1);
+  -webkit-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+}
 
 
 /*--------------------------------------------------------------

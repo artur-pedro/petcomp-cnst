@@ -49,7 +49,9 @@ require_once('header.php');
                     <div class="col-lg-12">
                         <h2>Temática</h2>
                         <p>
-                            A temática "A ciência e os desafios para saúde e tecnologia em novos tempos", escolhido para o Congresso Nacional de Saúde e Tecnologia e 3º Café com Ciência do PPGST, considerou a área de concentração do Programa: Saúde e Tecnologia e a organização de suas atividades buscará contemplar as linhas de pesquisa: 'Saúde e Sociedade' e 'Tecnologia em Saúde' de modo a possibilitar o diálogo entre as linhas e fortalecer a área de concentração do programa.
+                        A temática "Os desafios em qualidade, equidade e inovação na saúde e
+                        tecnologia no Brasil", escolhido para o II Congresso Nacional de Saúde e Tecnologia e IV Café com Ciência do PPGST, considerou a área de concentração do Programa: Saúde e Tecnologia e a organização de suas atividades buscará contemplar as linhas de pesquisa: 'Saúde e Sociedade' e 'Tecnologia em Saúde' de modo a possibilitar o diálogo entre as linhas e fortalecer a área de concentração do programa.
+
                         </p>
                     </div>
                 </center>

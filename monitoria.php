@@ -13,27 +13,26 @@
 <?php
   require_once('html_header.php');
   require_once('header.php');
-?>  
-  <div class="section-header">
+?>
   <h1 id="centered">MONITORIA</h1>
-            </div>
-  
 <div class="content">
   <h1>EDITAL</h1>
   
   <p class="centered">Para acessar a chamada, <a href="#">clique aqui</a>.</p>
 
-  <h3 class="centered" class="other-text">INFORMAÇÕES GERAIS</h3>
-  <p class="centered">Serão disponibilizadas 10 (dez) vagas para suprir a demanda das equipes de Monitoria do evento. Podem se inscrever alunos de cursos de graduação.</p>
-  
-  <h4 class="centered">Requisitos para inscrição:</h4>
-  <ul class="centered">
-    <li>Ter idade igual ou superior a 18 anos;</li>
-    <li>Possuir Índice de Rendimento Acadêmico (IRA) com nota mínima igual a 5 (cinco);</li>
-    <li>Ter disponibilidade integral durante a realização do evento, bem como em períodos previamente divulgados para atividades pré e pós-congresso, se julgado necessário;</li>
-    <li>Comprometer-se a participar do treinamento presencial conforme cronograma da monitoria.</li>
-  </ul>
-  
+  <h3 class="centered other-text">INFORMAÇÕES GERAIS</h3>
+<ol class="centered">
+  <li>Serão disponibilizadas 10 (dez) vagas para suprir a demanda das equipes de Monitoria do evento.</li>
+  <li>Poderão se inscrever alunos de cursos de graduação.</li>
+</ol>
+
+<h4 class="centered">Requisitos para inscrição:</h4>
+<ol class="centered">
+  <li>Ter idade igual ou superior a 18 anos;</li>
+  <li>Possuir Índice de Rendimento Acadêmico (IRA) com nota mínima igual a 5 (cinco);</li>
+  <li>Ter disponibilidade integral durante a realização do evento, bem como em períodos previamente divulgados para atividades pré e pós-congresso, se julgado necessário;</li>
+  <li>Comprometer-se a participar do treinamento presencial conforme cronograma da monitoria.</li>
+</ol>
   <p class="centered">Os monitores receberão os seguintes certificados:</p>
   <ul class="centered">
     <li>Monitoria (120 horas);</li>

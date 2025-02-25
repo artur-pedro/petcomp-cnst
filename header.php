@@ -12,7 +12,7 @@
             <h1>Evento Híbrido</h1>
 
             <p id="text-paragraph">
-                 Os desafios em qualidade, equidade e inovação na saúde e
+                Os desafios em qualidade, equidade e inovação na saúde e
                 tecnologia no Brasil
                 XX à XX de Junho de 2025
             </p>

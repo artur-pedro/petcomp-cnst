@@ -14,9 +14,9 @@
   require_once('html_header.php');
   require_once('header.php');
 ?>
-
+  <h1 id="centered">MONITORIA</h1>
 <div class="content">
-  <h2 class="centered">CHAMADA PARA SELEÇÃO DE MONITORES</h2>
+  
   <p class="centered">Para acessar a chamada, <a href="#">clique aqui</a>.</p>
 
   <h3 class="centered" class="other-text">INFORMAÇÕES GERAIS</h3>

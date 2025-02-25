@@ -1,7 +1,7 @@
 <div class="wrapper">
     <div class="banner">
         <div>
-            <a href="http://www.deinf.ufma.br/cocom/site/" target="_blank"><img src="img/supporters/banner2020.png" alt="" class="img-fluid" id="logo-principal"
+            <a href="#" target="_blank"><img src="img/supporters/banner2020.png" alt="" class="img-fluid" id="logo-principal"
                     id="img-esq-1"></a>
         </div>
         <div class="main-text">
@@ -19,7 +19,7 @@
         </div>
         
         <div>
-            <a href="https://portalpadrao.ufma.br/site" target="_blank"><img src="img/supporters/ppgst.png" alt=""
+            <a href="https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&idPrograma=1461" target="_blank"><img src="img/supporters/ppgst.png" alt=""
                     class="img-fluid" id="img-dir"></a>
         </div>
     </div>

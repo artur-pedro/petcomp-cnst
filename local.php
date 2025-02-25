@@ -14,9 +14,8 @@
   require_once('html_header.php');
   require_once('header.php');
 ?>
-
+<h1 id="centered">LOCAL</h1>
 <div class="content">
-  <h2 class="centered">LOCAL - I CONGRESSO NACIONAL DE SAÚDE E TECNOLOGIA E III CAFÉ COM CIÊNCIA</h2>
 
   <h3 class="centered">PRESENCIAL</h3>
   <p class="centered"><strong>Universidade Federal do Maranhão - Campus Bom Jesus</strong></p>

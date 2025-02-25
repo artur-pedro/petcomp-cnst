@@ -20,7 +20,7 @@
 
 <div class="content">
 
-  <p class="centered">Para fazer sua inscrição no evento, <a href="#">clique aqui</a>.</p>
+  <p class="centered">Para fazer sua inscrição no evento, <a href="https://doity.com.br/ii-congresso-nacional-de-saude-e-tecnologia-e-4-cafe-com-ciencia-ppgst"  target="_blank">clique aqui</a>.</p>
 
   <h3 class="centered">PERÍODO DE INSCRIÇÃO</h3>
   <ul class="centered">

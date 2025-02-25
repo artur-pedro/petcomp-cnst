@@ -52,7 +52,7 @@
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  color: #343564;
+  color: #4788D8;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -167,14 +167,14 @@ body#body{
 }
 
 a {
-  color: #381460;
+  color: #4788D8;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #8155BA;
+  color: #4788D8;
   outline: none;
   text-decoration: none;
 }
@@ -222,7 +222,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #8155BA;
+  background: #4788D8;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -239,13 +239,13 @@ h6 {
 }
 
 .back-to-top:focus {
-  background: #5C038C;
+  background: #4788D8;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background:#5C038C;
+  background:#4788D8;
   color:  #fff;
 }
 
@@ -468,7 +468,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #381460;
+  background-color: #4788D8;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -553,7 +553,7 @@ h6 {
 }
 
 #mobile-nav-toggle i {
-  color: #381460;
+  color: #4788D8;
 }
 
 /* Mobile Nav Styling */
@@ -564,7 +564,7 @@ h6 {
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: #381460;
+  background: #4788D8;
 
   left: -260px;
   width: 260px;
@@ -616,11 +616,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #381460;
+  color: #4788D8;
 }
 
 #mobile-nav ul .menu-item-active {
-  color:#381460;
+  color:#4788D8;
 }
 
 #mobile-body-overly {
@@ -703,7 +703,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro-2 h1 span {
-  color:#8155BA;
+  color:#4788D8;
 }
 
 #intro-2 p {
@@ -715,7 +715,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro-2 .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#8155BA 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: #4788D8;
   border-radius: 50%;
   display: block;
   position: relative;
@@ -758,11 +758,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid transparent;
   top: -15%;
   left: -15%;
-  background: #381460;
+  background: #4788D8;
 }
 
 #intro-2 .play-btn:hover::after {
-  border-left: 15px solid #381460;
+  border-left: 15px solid #4788D8;
   -webkit-transform: scale(20); 
   transform: scale(20);
 }

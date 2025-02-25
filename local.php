@@ -15,22 +15,49 @@
   require_once('header.php');
 ?>
   <div class="section-header">
-  <h1 id="centered">LOCAL</h1>
-            </div>
-<div class="content">
+    <h1 id="centered">LOCAL</h1>
+  </div>
+  <div class="content">
 
-  <h3 class="centered">PRESENCIAL</h3>
-  <p class="centered"><strong>Universidade Federal do Maranhão - Campus Bom Jesus</strong></p>
-  <p class="centered">Avenida da Universidade, s/n – Dom Afonso Felipe Gregory – Imperatriz – MA - CEP 65.915-240</p>
-  <p class="centered">Endereço: R. Bayma Júnior, S/n - Bom Jesus, Imperatriz - MA</p>
+    <h3 class="centered">PRESENCIAL</h3>
+    <p class="centered"><strong>Universidade Federal do Maranhão - Campus Bom Jesus</strong></p>
+    <p class="centered">Avenida da Universidade, s/n - Dom Afonso Felipe Gregory - Imperatriz - MA - CEP 65.915-240</p>
+    <p>
+      <i class="fa fa-map"></i>
+      Endereço: 
+      <a href="https://goo.gl/maps/Rn9TdyYhnDo8DWtU8" target="_blank">R.
+                Bayma Júnior, S/n - Bom
+                Jesus, Imperatriz - MA</a>
+    </p>
+    
 
-  <h3 class="centered">VIRTUAL</h3>
-  <p class="centered"><strong>Canal do Youtube:</strong> PPGST - UFMA</p>
-  <p class="centered"><strong>E-mail:</strong> <a href="mailto:eventos.ppgstt@ufma.br">eventos.ppgstt@ufma.br</a></p>
-  <p class="centered"><strong>E-mail:</strong> <a href="mailto:ppgst.ccsst@ufma.br">ppgst.ccsst@ufma.br</a></p>
-  <p class="centered"><strong>Instagram:</strong> @ppgstufma</p>
-  <p class="centered"><strong>Telefone:</strong> (99) 3529-6081 - (99) 3529-6082</p>
-</div>
+    <h3 class="centered">VIRTUAL</h3>
+    <p>
+      <i class="fa fa-youtube"></i>
+      Canal do Youtube: 
+      <a href="https://www.youtube.com/channel/UCKCCGmeZ-VtHF7P5jKOaPWA" target="_blank">PPGST - UFMA</a>
+    </p>
+    <p>
+      <i class="fa fa-envelope"></i>
+      E-mail: 
+      <a href="mailto:eventos.ppgst@ufma.br" target="_blank">eventos.ppgstt@ufma.br</a>
+    </p>
+    <p>
+      <i class="fa fa-envelope"></i>
+      E-mail: 
+      <a href="mailto:ppgst.ccsst@ufma.br" target="_blank">ppgst.ccsst@ufma.br</a>
+    </p>
+    <p>
+      <i class="fa fa-instagram"></i>
+      Instagram: 
+      <a href="https://www.instagram.com/ppgstufma/" target="_blank">@ppgstufma</a>
+      <a href="https://www.instagram.com/ppgstufma/" target="_blank">@eventos.ppgst</a>
+    </p>
+    <p>
+      <i class="fa fa-phone"></i>
+      Telefone: (99) 3529-6081 - (99) 3529-6082
+    </p>
+  </div>
 
 <?php 
     require_once('footer.php');

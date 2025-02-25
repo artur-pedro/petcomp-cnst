@@ -7,7 +7,7 @@
     text-align: left; /* Centraliza o texto dentro dos elementos */
     margin: 0 15rem;
     max-width: 1000px; /* Limita a largura máxima */
-    padding: 2rem;
+    padding: 1rem;
   }
   /* Remove as bolinhas da lista */
 .centered ul li {
@@ -19,7 +19,7 @@
   /* Centraliza as imagens e os itens da lista */
   .centered {
     text-align: left;
-    
+
   }
 
   /* Estilizando a tabela */
@@ -57,7 +57,7 @@ h1, h2, h3, h4 {
 }
 #centered {
   text-align: center;
-  margin-top: 2.5rem;
+  margin-top: 1rem;
 }
 
 #centered h1 {
@@ -70,4 +70,4 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0 10px 0;
   padding: 0;
   color: #1b100a;
-}  
+

@@ -16,6 +16,7 @@
 ?>
   <h1 id="centered">MONITORIA</h1>
 <div class="content">
+  <h1>EDITAL</h1>
   
   <p class="centered">Para acessar a chamada, <a href="#">clique aqui</a>.</p>
 

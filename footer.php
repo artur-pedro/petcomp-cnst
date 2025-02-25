@@ -11,6 +11,9 @@
                 <strong>E-mail:</strong> eventos.ppgst@ufma.br
 
             </div>
+            <a href="#" class="back-to-top" style="display: inline;">
+                <i class="fa fa-angle-up"></i>
+            </a>
 
             <div class="social-links">
 

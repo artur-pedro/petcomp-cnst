@@ -7,12 +7,12 @@
         <div class="main-text">
             <h1>Congresso Nacional de Saúde e Tecnologia</h1>
             
-            <h1>3º Café com Ciência</h1>
+            <h1>4º Café com Ciência</h1>
 
             <h1>Evento Híbrido</h1>
 
             <p id="text-paragraph">
-                 Os desafios em qualidade, equidade e inovação na saúde e
+                Os desafios em qualidade, equidade e inovação na saúde e
                 tecnologia no Brasil
                 XX à XX de Junho de 2025
             </p>
@@ -56,7 +56,7 @@
                             <a class="dropdown-item" href="programacao.php">Congresso</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Palestrantes</a>
+                            <a class="dropdown-item" href="palestrantes.php">Palestrantes</a>
                         </div>
                     </li>
                     <li class="dropdown">

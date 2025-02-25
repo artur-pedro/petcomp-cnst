@@ -3,19 +3,18 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Congresso Nacional de Saúde e Tecnologia - 3º Café com Ciência</title>
+    <title>Congresso Nacional de Saúde e Tecnologia - 4º Café com Ciência</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Acalourada, Evento, petcomp, " name="keywords">
+    <meta content="Cnst" name="keywords">
     <meta content="PETCOMP-UFMA" name="author">
     <meta content="index, follow" name="robots">
     <meta name=”creator” content=”PETCOMP-UFMA”>
     <meta name="google-site-verification" content="Vq1j2NBJRrVdJnbfpVGku9UCJFm-OD1rTIO7XZ7i7Rs" />
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon-v1/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-v1/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-v1/favicon-16x16.png">
+    <link rel="shortcut icon" type="imagex/png" href="/img/flavicon.png">
     <link rel="manifest" href="/favicon-v1/site.webmanifest">
+
 
 
 

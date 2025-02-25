@@ -109,7 +109,7 @@
 
 #img-dir {
   padding-top: 10px;
-  width: 27%;
+  width: 40%;
 }
 
 .section-header {
@@ -291,8 +291,9 @@ h6 {
   background-color: #f6f7fd;
 }
 #logo-principal {
-  width: 10rem;
-  height: 10rem;
+  padding-top: 10px;
+  width: 40%;
+  height: 40%;
 }
 
 /*--------------------------------------------------------------

@@ -17,8 +17,10 @@
   <div class="section-header">
   <h1 id="centered">INSCRIÇÕES</h1>
             </div>
-
+    
 <div class="content">
+<h1>EDITAL</h1>
+<p>CHAMADA PARA SELEÇÃO DE MONITORES</p>
 
   <p class="centered">Para fazer sua inscrição no evento, <a href="#">clique aqui</a>.</p>
 

@@ -10,9 +10,9 @@
     padding: 2rem;
   }
   /* Remove as bolinhas da lista */
-.centered li {
+.centered ul li {
   list-style-type: none; /* Remove as bolinhas */
-  padding-left: 0; /* Remove o recuo da lista */
+  padding-left: 20px; /* Remove o recuo da lista */
 }
 
   

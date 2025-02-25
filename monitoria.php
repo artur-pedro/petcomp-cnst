@@ -19,6 +19,7 @@
             </div>
   
 <div class="content">
+  <h1>EDITAL</h1>
   
   <p class="centered">Para acessar a chamada, <a href="#">clique aqui</a>.</p>
 

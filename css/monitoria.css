@@ -64,4 +64,10 @@ h1, h2, h3, h4 {
 
   border-bottom: 0.5rem solid #007bff;
 }
-  
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  margin: 10px 0 10px 0;
+  padding: 0;
+  color: #1b100a;
+}  

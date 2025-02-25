@@ -13,18 +13,16 @@
 <?php
   require_once('html_header.php');
   require_once('header.php');
-?>  
-  <div class="section-header">
+?>
   <h1 id="centered">MONITORIA</h1>
-            </div>
-  
 <div class="content">
   
   <p class="centered">Para acessar a chamada, <a href="#">clique aqui</a>.</p>
 
   <h3 class="centered" class="other-text">INFORMAÇÕES GERAIS</h3>
-  <p class="centered">Serão disponibilizadas 10 (dez) vagas para suprir a demanda das equipes de Monitoria do evento. Podem se inscrever alunos de cursos de graduação.</p>
-  
+  <p class="centered"><li>Serão disponibilizadas 10 (dez) vagas para suprir a demanda das equipes de Monitoria do evento.</li> 
+  <li>Poderão se inscrever alunos de cursos de graduação.</li>
+  </p>
   <h4 class="centered">Requisitos para inscrição:</h4>
   <ul class="centered">
     <li>Ter idade igual ou superior a 18 anos;</li>

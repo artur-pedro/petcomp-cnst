@@ -147,7 +147,7 @@ require_once('header.php');
                 <h2 class="color: black">REALIZAÇÃO</h2>
             </div>
             <div class="supporter-logo2">
-              <a href="https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&amp;idPrograma=1461" target="_blank">
+              <a href="#" target="_blank">
                 <img src="img/supporters/logo_ppgst.png" class="img-fluid" alt="">
               </a>
             </div>
@@ -157,10 +157,10 @@ require_once('header.php');
             </div>
             <div class="patrocinio-container">
             <div class="supporter-logo3">
-              <a href="https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&amp;idPrograma=1461" target="_blank">
+              <a href="https://www.fapema.br/" target="_blank">
                 <img src="img/supporters/logo_fapema.png" class="img-fluid" alt="">
               </a>
-              <a href="https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&amp;idPrograma=1461" target="_blank">
+              <a href="https://portalpadrao.ufma.br/ageufma" target="_blank">
                 <img src="img/supporters/logo_ageufma.png" class="img-fluid" alt="">
               </a>
             </div>
@@ -176,56 +176,12 @@ require_once('header.php');
             
                             <div class="row no-gutters supporters-wrap clearfix">
 
-                <div class="col-lg-4 col-md-6 col-xs-12">
+                <div class="col-lg-5 col-md-6 col-xs-14">
                 <div class="supporter-logo">
-                    <a href="https://portais.ufma.br/PortalUfma/index.jsf" target="_blank">
-                    <img src="img/supporters/logo_assuncao.png" class="img-fluid" alt="">
-                    </a>
-                </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                <div class="supporter-logo">
-                    <a href="http://www.deinf.ufma.br/" target="_blank">
-                    <img src="img/supporters/logo_cafeviana.png" class="img-fluid" alt="">
-                    </a>
-                </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                <div class="supporter-logo">
-                    <a href="https://petcompufma.org/" target="_blank">
+                    <a href="https://www.gov.br/capes/pt-br" target="_blank">
                     <img src="img/supporters/logo_capes.png" class="img-fluid" alt="">
                     </a>
                 </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                <div class="supporter-logo">
-                    <a href="https://www.instagram.com/dacomp.ufma/" target="_blank">
-                    <img src="img/supporters/logo_hope_cafe.png" class="img-fluid" alt="">
-                    </a>
-                </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                <div class="supporter-logo">
-                    <a href="https://www.instagram.com/dacomp.ufma/" target="_blank">
-                    <img src="img/supporters/logo_river.png" class="img-fluid" alt="">
-                    </a>
-                </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                <div class="supporter-logo">
-                    <a href="https://www.instagram.com/dacomp.ufma/" target="_blank">
-                    <img src="img/supporters/logo_viaBranca.png" class="img-fluid" alt="">
-                    </a>
-                </div>
-                </div>
-
-                </div>
-
         </div>
     </section>
 

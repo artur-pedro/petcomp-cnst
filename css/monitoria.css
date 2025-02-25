@@ -5,13 +5,15 @@
     align-items: left; /* Centraliza todos os itens horizontalmente */
     justify-content: left; /* Centraliza o conteúdo verticalmente */
     text-align: left; /* Centraliza o texto dentro dos elementos */
-    margin: 0 auto;
+    margin: 0px 0px 0px 100px;
     padding: 20px; /* Espaço interno */
     max-width: 1000px; /* Limita a largura máxima */
+
+   
   }
   /* Remove as bolinhas da lista */
 .centered li {
-  list-style-type: none; /* Remove as bolinhas */
+ 
   padding-left: 0; /* Remove o recuo da lista */
 }
 
@@ -20,6 +22,10 @@
   .centered {
     text-align: left;
   }
+  .content h2 {
+    text-align: center;
+    justify-content: center;
+}
 
   /* Estilizando a tabela */
   table.centered {

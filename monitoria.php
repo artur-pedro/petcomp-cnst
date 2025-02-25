@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sua Página</title>
+  <title>Monitoria</title>
   
   <!-- Link para o arquivo CSS -->
   <link rel="stylesheet" href="css/monitoria.css"> <!-- Substitua pelo seu caminho -->
@@ -16,7 +16,7 @@
 ?>
 
 <div class="content">
-  <h2 class="centered">CHAMADA PARA SELEÇÃO DE MONITORES</h2>
+  <h2 class="centered">MONITORIA</h2>
   <p class="centered">Para acessar a chamada, <a href="#">clique aqui</a>.</p>
 
   <h3 class="centered" class="other-text">INFORMAÇÕES GERAIS</h3>

@@ -5,15 +5,13 @@
     align-items: left; /* Centraliza todos os itens horizontalmente */
     justify-content: left; /* Centraliza o conteúdo verticalmente */
     text-align: left; /* Centraliza o texto dentro dos elementos */
-    margin: 0 auto;
-    padding: 20px; /* Espaço interno */
+    margin: 0 15rem;
     max-width: 1000px; /* Limita a largura máxima */
-
-    
+    padding: 2rem;
   }
   /* Remove as bolinhas da lista */
 .centered li {
- /* Remove as bolinhas */
+  list-style-type: none; /* Remove as bolinhas */
   padding-left: 0; /* Remove o recuo da lista */
 }
 
@@ -21,6 +19,7 @@
   /* Centraliza as imagens e os itens da lista */
   .centered {
     text-align: left;
+    
   }
 
   /* Estilizando a tabela */
@@ -55,4 +54,13 @@
  /* Definir cor preta para todos os títulos (h1, h2, h3, h4) */
 h1, h2, h3, h4 {
     color: black;
+}
+#centered {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+#centered h1 {
+
+  border-bottom: 0.5rem solid #007bff;
 }

@@ -48,23 +48,23 @@
     <tbody>
       <tr>
         <td>Lançamento da Chamada para Seleção de Monitores</td>
-        <td>07/05/2022</td>
+        <td>24/03/2025</td>
       </tr>
       <tr>
         <td>Período de inscrições</td>
-        <td>07 à 12/05/2022 até às 18:00</td>
+        <td>24 à 28/03/2025 até às 18:00</td>
       </tr>
       <tr>
         <td>Resultado</td>
-        <td>13/05/2022</td>
+        <td>02/04/2025</td>
       </tr>
       <tr>
         <td>Interposição de recursos</td>
-        <td>14 e 15/05/2022 até às 18:00</td>
+        <td>03 e 04/04/2025</td>
       </tr>
       <tr>
         <td>Resultado final</td>
-        <td>16/05/2022 após as 17h</td>
+        <td>07/04/2025</td>
       </tr>
       <tr>
         <td>Resultado Final da Seleção de Monitores</td>

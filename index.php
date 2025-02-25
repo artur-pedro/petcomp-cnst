@@ -20,8 +20,9 @@ require_once('header.php');
                 <div class="slider-banner">
                     <div class="intro-container wow fadeIn">
                         <h1>Congresso Nacional de Saúde e Tecnologia</h1>
-                        <h1>3º Café com Ciência</h1>
-                        <h2 style="color: white;">A ciência e os desafios para saúde e tecnologia em novos tempos</h2>
+                        <h1>4º Café com Ciência</h1>
+                        <h2 style="color: white;">Os desafios em qualidade, equidade e inovação na saúde e
+                        tecnologia no Brasil</h2>
                         <a href="#about-event" class="about-btn text-decoration-none">
                             <b>Sobre o evento</b>
                         </a>

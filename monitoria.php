@@ -34,11 +34,11 @@
   <li>Comprometer-se a participar do treinamento presencial conforme cronograma da monitoria.</li>
 </ol>
   <p class="centered">Os monitores receberão os seguintes certificados:</p>
-  <ul class="centered">
+  <ol class="centered">
     <li>Monitoria (120 horas);</li>
     <li>Participação no Evento;</li>
     <li>Apresentação de Trabalhos (para aqueles com resumos aprovados e apresentados conforme as normas do evento).</li>
-  </ul>
+  </ol>
 
   <h3 class="centered">Cronograma</h3>
   <table class="centered">

@@ -10,8 +10,9 @@
     padding: 1rem;
   }
   /* Remove as bolinhas da lista */
-.centered li {
-  padding-left: 0; /* Remove o recuo da lista */
+.centered ul li {
+  list-style-type: none; /* Remove as bolinhas */
+  padding-left: 20px; /* Remove o recuo da lista */
 }
 
   
@@ -69,4 +70,4 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0 10px 0;
   padding: 0;
   color: #1b100a;
-}
+

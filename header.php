@@ -56,7 +56,7 @@
                             <a class="dropdown-item" href="programacao.php">Congresso</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Palestrantes</a>
+                            <a class="dropdown-item" href="palestrantes.php">Palestrantes</a>
                         </div>
                     </li>
                     <li class="dropdown">
